@@ -6,7 +6,7 @@ body {
 	display: flex;
 	width: 100%;
 	box-sizing: border-box;
-	background: lightblue;
+	background: #8320E5;
 	padding-left: 10px;
 	border-bottom: solid 2px black;
 	position: sticky;
@@ -17,11 +17,11 @@ body {
 }
 	.titleinstituto {
 		width: 110px;
-		padding-bottom: 5px;}
+		margin: -4px 12px 12px 0px;}
+
 	.user {
-		width: 40px;
-		position: relative;
-		margin: 6px 6px 2px auto;
+		width: 30px;
+		margin: 12px 12px 2px auto;
 			}
 
 .contenedor {
@@ -36,7 +36,7 @@ body {
 	width: 300px;
 	height: 300px;
 	border-radius: 3%;
-	background: #eeeeee;
+	background: #ccc;
 	border: solid 2px #cccccc;
 	text-decoration: none;
 	box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
